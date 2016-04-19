@@ -4,4 +4,4 @@
   - ref to web interfaces
 - html5  
 - d3  
-- hogher level libs  
+- higher level libs  
