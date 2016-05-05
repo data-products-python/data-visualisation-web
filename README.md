@@ -5,3 +5,4 @@
 - html5  
 - d3  
 - higher level libs  
+- plot.ly  
